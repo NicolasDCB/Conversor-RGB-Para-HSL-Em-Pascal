@@ -1,4 +1,4 @@
-# Trabalho Prático: Conversão RGB ↔ HSL (Padrão Windows) 🎨
+# Trabalho Prático: Conversão RGB ↔ HSL (Padrão Windows)
 
 Este projeto foi desenvolvido como parte da disciplina de **Processamento Digital de Imagens**. O objetivo principal é implementar a conversão matemática entre os modelos de cores **RGB** (Hardware-centric) e **HSL** (Human-centric), replicando o comportamento do seletor de cores do **Microsoft Paint**.
 
